@@ -1,6 +1,15 @@
 # Vuforia AR Project
 A simple AR project made with Vuforia in Unity, 
 
+Steps to use the app:
+
+1. Install apk in your android device located in "Apk Build"
+2. After install open AR - project
+3. Allow camera then open the My ID in ImageTarget Folder
+4. Point your camera to My ID
+5. Press the frame / button in the Mobile
+
+-----------------------------------------------------
 
 How to use open project folder:
 
@@ -17,3 +26,10 @@ Things that I learned / used during the work process:
 2. Vuforia / Target Image Quality
 3. Asset Bundling / Asset Bundle Browser
 4. Using Object pool
+
+
+-----------------------------------------------------
+
+Possible update:
+
+1. Replacement of Mobile Buttons to Virtual Buttons
