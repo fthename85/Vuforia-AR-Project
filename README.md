@@ -1,5 +1,7 @@
 # Vuforia AR Project
-A simple AR project made with Vuforia in Unity, 
+A simple AR project made with Vuforia in Unity
+
+Video Demo: https://www.youtube.com/watch?v=kPLDQh-LqfI
 
 Steps to use the app:
 
